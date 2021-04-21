@@ -1,0 +1,7 @@
+#itemCategoria{
+    cursor: pointer;
+}
+
+#itemCategoria:hover a{
+   color: orange
+}
