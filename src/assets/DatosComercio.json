@@ -1,0 +1,98 @@
+[
+	{
+		"nombre": "Categoria 1",
+		"id": 1,
+		"productos": [
+			{
+				"nombre": "producto 1",
+				"id": 1,
+				"imagen": "",
+				"descripcion": "Esta es la descripcion del producto"
+			},
+			{
+				"nombre": "producto 2",
+				"id": 2,
+				"imagen": "",
+				"descripcion": "Esta es la descripcion del producto"
+			},
+			{
+				"nombre": "producto 2",
+				"id": 2,
+				"imagen": "",
+				"descripcion": "Esta es la descripcion del producto"
+			}
+		]
+	},
+	{
+		"nombre": "Categoria 2",
+		"id": 1,
+		"productos": [
+			{
+				"nombre": "producto 1",
+				"id": 1,
+				"imagen": "",
+				"descripcion": "Esta es la descripcion del producto"
+			},
+			{
+				"nombre": "producto 2",
+				"id": 2,
+				"imagen": "",
+				"descripcion": "Esta es la descripcion del producto"
+			},
+			{
+				"nombre": "producto 2",
+				"id": 2,
+				"imagen": "",
+				"descripcion": "Esta es la descripcion del producto"
+			}
+		]
+	},
+	{
+		"nombre": "Categoria 3",
+		"id": 1,
+		"productos": [
+			{
+				"nombre": "producto 1",
+				"id": 1,
+				"imagen": "",
+				"descripcion": "Esta es la descripcion del producto"
+			},
+			{
+				"nombre": "producto 2",
+				"id": 2,
+				"imagen": "",
+				"descripcion": "Esta es la descripcion del producto"
+			},
+			{
+				"nombre": "producto 2",
+				"id": 2,
+				"imagen": "",
+				"descripcion": "Esta es la descripcion del producto"
+			}
+		]
+	},
+	{
+		"nombre": "Categoria 4",
+		"id": 1,
+		"productos": [
+			{
+				"nombre": "producto 1",
+				"id": 1,
+				"imagen": "",
+				"descripcion": "Esta es la descripcion del producto"
+			},
+			{
+				"nombre": "producto 2",
+				"id": 2,
+				"imagen": "",
+				"descripcion": "Esta es la descripcion del producto"
+			},
+			{
+				"nombre": "producto 2",
+				"id": 2,
+				"imagen": "",
+				"descripcion": "Esta es la descripcion del producto"
+			}
+		]
+	}
+]
